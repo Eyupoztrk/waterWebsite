@@ -32,13 +32,6 @@ export default function HeroSection() {
         <svg className="hero-wave hero-wave2" viewBox="0 0 1440 320" preserveAspectRatio="none"><path fill="#b3e0ff" fillOpacity="0.7" d="M0,224L60,202.7C120,181,240,139,360,122.7C480,107,600,117,720,133.3C840,149,960,171,1080,181.3C1200,192,1320,192,1380,192L1440,192L1440,320L0,320Z"/></svg>
         <svg className="hero-wave hero-wave3" viewBox="0 0 1440 320" preserveAspectRatio="none"><path fill="#e6f7ff" fillOpacity="0.5" d="M0,288L60,272C120,256,240,224,360,197.3C480,171,600,149,720,154.7C840,160,960,192,1080,197.3C1200,203,1320,181,1380,170.7L1440,160L1440,320L0,320Z"/></svg>
       </div>
-      {/* Baloncuklar */}
-      <div className="hero-bubbles">
-        <div className="hero-bubble hero-bubble1" />
-        <div className="hero-bubble hero-bubble2" />
-        <div className="hero-bubble hero-bubble3" />
-        <div className="hero-bubble hero-bubble4" />
-      </div>
       <div className="hero-content">
         <h1 className="hero-title-gradient">Es & Es Su</h1>
         <p className="hero-subtitle-anim">Suyun En Tazesini Kapınıza Getiriyoruz.</p>
