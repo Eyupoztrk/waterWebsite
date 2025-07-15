@@ -50,6 +50,8 @@ p, li, span {
   z-index: 0;
   pointer-events: none;
   overflow: hidden;
+  top: 0;
+  right: 0;
 }
 .hero-wave {
   position: absolute;
@@ -823,7 +825,7 @@ footer {
 .bubble-bg {
   position: absolute;
   left: 0; top: 0; width: 100vw; height: 100%;
-  z-index: 0;
+  z-index: 1;
   pointer-events: none;
   overflow: hidden;
 }
