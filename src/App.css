@@ -209,9 +209,12 @@ p, li, span {
   margin-bottom: 12px;
 }
 .size-label {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
   color: #0077cc;
+  margin-top: 2px;
+  z-index: 1000;
+  position: relative;
 }
 .size-img {
   width: 200px;
