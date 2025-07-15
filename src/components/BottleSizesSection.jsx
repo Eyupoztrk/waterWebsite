@@ -1,11 +1,11 @@
 import { motion } from 'framer-motion';
 
 const sizes = [
-  { size: '0.33L', img: '/src/assets/images/0.33.png' },
-  { size: '0.5L', img: '/src/assets/images/0.5.png' },
-  { size: '1.5L', img: '/src/assets/images/1.5.png' },
-  { size: '5L', img: '/src/assets/images/5.png' },
-  { size: '19L', img: '/src/assets/images/19.png' },
+  { size: '0.33L', img: '/images/0.33.png' },
+  { size: '0.5L', img: '/images/0.5.png' },
+  { size: '1.5L', img: '/images/1.5.png' },
+  { size: '5L', img: '/images/5.png' },
+  { size: '19L', img: '/images/19.png' },
 ];
 
 export default function BottleSizesSection() {

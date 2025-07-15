@@ -1,12 +1,12 @@
 import { motion } from 'framer-motion';
 
 const brands = [
-  { name: 'Çobanpınar', img: '/src/assets/images/cobanpinar.png' },
-  { name: 'Hamidiye', img: '/src/assets/images/hamidiye.png' },
-  { name: 'Abant', img: '/src/assets/images/abant.png' },
-  { name: 'Taşkesti', img: '/src/assets/images/taskesti.png' },
-  { name: 'Aroma', img: '/src/assets/images/aroma.png' },
-  { name: 'Gürpınar', img: '/src/assets/images/gurpinar.png' },
+  { name: 'Çobanpınar', img: '/images/cobanpinar.png' },
+  { name: 'Hamidiye', img: '/images/hamidiye.png' },
+  { name: 'Abant', img: '/images/abant.png' },
+  { name: 'Taşkesti', img: '/images/taskesti.png' },
+  { name: 'Aroma', img: '/images/aroma.png' },
+  { name: 'Gürpınar', img: '/images/gurpinar.png' },
 ];
 
 export default function BrandsSection() {
